@@ -15,5 +15,9 @@
     "@types/mocha": "^10.0.10",
     "@types/node": "22.x"
   },
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalcloud94/path-autocomplete-ctrl-click"
+  }
 }
