@@ -14,7 +14,6 @@ export const activate = (context) => {
 				const text = document.getText();
 				const links = [];
 				const mappings = {
-					"@root/": "",
 					"@api/": "api",
 					"@static/": "static",
 					"@view/": "view",
